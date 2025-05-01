@@ -4,7 +4,8 @@ Some important file links:
 1. Training fmri data: https://drive.google.com/file/d/1FIOq2rt8GuSz5MaERViiHBdncSEYOSsY/view?usp=sharing
 2. Testing fmri data: https://drive.google.com/file/d/1Tb3CPr-opZk7qL4Nokzn6FJcjEC4JBZe/view?usp=sharing
 
-**My current model**
+## Current model:
+
 My present model acheived an f1-score of 0.75 on test data, which is a decent socre for a multi outcome prediction objective. As the competition organizers provided only the tabular correlation data between brain regions, the max acheivalble score could be anywhere between 0.75-0.85 based on the model used for prediction.
 
 ## About the Challenge:
